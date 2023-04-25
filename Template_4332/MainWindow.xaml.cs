@@ -30,9 +30,9 @@ namespace Template_4332
             elina.Show();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
+        //private void Button_Click(object sender, RoutedEventArgs e)
+        //{
 
-        }
+        //}
     }
 }
